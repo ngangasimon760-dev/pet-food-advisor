@@ -1,0 +1,44 @@
+[
+  {
+    "id": "dog-lean-1",
+    "name": "LeanDog Adult Formula",
+    "species": ["dog"],
+    "ageGroups": ["adult", "senior"],
+    "caloriesPer100g": 320,
+    "proteinPercent": 26,
+    "kibbleSize": "medium",
+    "isGentle": false,
+    "allergenIngredients": ["beef", "wheat"]
+  },
+  {
+    "id": "dog-weight-control",
+    "name": "SlimPaws Weight Control",
+    "species": ["dog"],
+    "ageGroups": ["adult"],
+    "caloriesPer100g": 300,
+    "proteinPercent": 30,
+    "kibbleSize": "small",
+    "isGentle": true,
+    "allergenIngredients": []
+  },
+  {
+    "id": "cat-senior-lowprotein",
+    "name": "SeniorCat Kidney Support",
+    "species": ["cat"],
+    "ageGroups": ["senior"],
+    "caloriesPer100g": 360,
+    "proteinPercent": 22,
+    "isGentle": true,
+    "allergenIngredients": ["fish"]
+  },
+  {
+    "id": "cat-kitten",
+    "name": "Kitten Growth Formula",
+    "species": ["cat"],
+    "ageGroups": ["kitten"],
+    "caloriesPer100g": 420,
+    "proteinPercent": 34,
+    "isGentle": false,
+    "allergenIngredients": []
+  }
+]
